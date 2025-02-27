@@ -1,4 +1,11 @@
 # On-ine-Super-Store
+
+# 📊 Project Overview
+
+## This Power BI project visualizes and analyzes an online sales dataset. It provides interactive and insightful dashboards to 
+help understand sales performance, customer behavior, and product trends. This project aims to demonstrate data modeling, DAX calculations, 
+and effective data visualization techniques using Power BI.
+
 # 🗂️ Dataset
 
 ## The dataset includes information on:
